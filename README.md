@@ -2,7 +2,7 @@
 
 Simple CLI exercise for creating a bank account.
 
-This exercise is part of the Santander2025 Bootcamp - Back-End with Java by DIO (Digital Innovation One).
+This exercise is part of the Santander 2025 Bootcamp - Back-End with Java by DIO (Digital Innovation One).
 
 This exercise helped me revisit the basics of the Java language.
 
